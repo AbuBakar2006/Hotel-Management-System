@@ -2,8 +2,6 @@
 
 A comprehensive **Hotel Management System** implemented in C++. This project demonstrates the practical application of core Data Structures—**Stacks, Queues, and Linked Lists**—to manage hotel operations, booking histories, and customer queues efficiently.
 
-
-
 ## 🚀 Features
 
 * **Booking History (Stack - LIFO):**
@@ -45,13 +43,13 @@ The system is contained within a single source file but manages three distinct m
 Run the following command in your terminal to build the project:
 
 ```bash
-g++ main.cpp -o hotel_system
+g++ main.cpp -o Hotel-Management-System
 ```
 
 ### 2. Run
 Execute the compiled program
 ```bash
-./hotel_system
+Hotel-Management-System.cpp
 ```
 
 ### 3. Input
